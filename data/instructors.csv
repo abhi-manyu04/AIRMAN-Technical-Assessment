@@ -1,0 +1,11 @@
+instructor_id,name,base_id,aircraft_qualified,total_duty_hours,total_flight_hours
+I001,Name1,B03,C152,167,122
+I002,Name2,,"DA40, C172",132,67
+I003,Name3,B02,"C152, PA28",124,88
+I004,Name4,B03,C172,151,83
+I005,Name5,B03,C172,88,56
+I006,Name6,B03,DA40,93,55
+I007,Name7,B01,"DA40, PA28",128,90
+I008,Name8,B03,DA42,116,76
+I009,Name9,B01,C152,156,97
+I010,Name10,B02,PA28,123,79

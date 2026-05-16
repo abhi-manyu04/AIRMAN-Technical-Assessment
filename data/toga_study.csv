@@ -1,0 +1,51 @@
+cadet_id,subject,chapters_completed,total_chapters,avg_quiz_score,last_active_date,practice_tests_attempted
+C001,Air Regulations,23,28,52,2026-05-03,5
+C001,Aircraft Technical,27,35,85,2026-05-11,5
+C001,Human Performance,8,20,41,2026-05-13,1
+C001,Meteorology,11,25,80,2026-04-28,2
+C003,Human Performance,4,20,85,2026-05-12,0
+C004,Air Regulations,18,28,43,2026-04-27,4
+C004,Aircraft Technical,24,35,59,2026-05-07,3
+C004,Human Performance,5,20,78,2026-05-05,0
+C004,Meteorology,17,25,87,2026-05-04,3
+C005,Human Performance,17,20,73,2026-05-05,3
+C006,Air Regulations,24,28,43,2026-05-11,3
+C006,Navigation,10,30,76,2026-05-05,1
+C007,Aircraft Technical,4,35,96,2026-04-29,0
+C007,Navigation,26,30,45,2026-05-14,3
+C008,Meteorology,17,25,44,2026-05-14,2
+C009,Aircraft Technical,30,35,61,2026-04-29,7
+C009,Navigation,1,30,86,2026-05-12,0
+C010,Air Regulations,1,28,82,2026-05-06,0
+C010,Aircraft Technical,31,35,46,2026-05-10,6
+C010,Meteorology,16,25,53,2026-05-08,2
+C011,Human Performance,20,20,61,2026-05-07,5
+C011,Meteorology,3,25,73,2026-05-07,0
+C012,Air Regulations,14,28,63,2026-05-02,2
+C012,Meteorology,4,25,96,2026-05-11,0
+C013,Aircraft Technical,,35,,,
+C014,Air Regulations,16,28,59,2026-05-12,2
+C014,Aircraft Technical,23,35,48,2026-05-11,3
+C014,Meteorology,20,25,60,2026-04-26,2
+C014,Navigation,30,30,45,2026-05-15,5
+C015,Aircraft Technical,10,35,67,2026-04-25,1
+C015,Meteorology,21,25,47,2026-05-08,3
+C015,Navigation,0,30,,2026-05-07,0
+C016,Air Regulations,3,28,60,2026-05-05,0
+C016,Aircraft Technical,17,35,62,2026-04-25,4
+C016,Navigation,,30,,,
+C017,Air Regulations,11,28,97,2026-05-14,2
+C017,Aircraft Technical,29,35,67,2026-05-02,5
+C017,Human Performance,1,20,58,2026-05-13,0
+C018,Air Regulations,25,28,97,2026-05-03,6
+C018,Aircraft Technical,33,35,41,2026-04-25,6
+C018,Human Performance,18,20,91,2026-05-09,4
+C018,Meteorology,12,25,56,2026-05-09,3
+C019,Air Regulations,12,28,69,2026-04-29,3
+C019,Aircraft Technical,3,35,41,2026-05-04,0
+C019,Meteorology,25,25,99,2026-05-03,3
+C019,Navigation,21,30,61,2026-04-25,3
+C020,Air Regulations,11,28,96,2026-04-29,1
+C020,Aircraft Technical,19,35,93,2026-05-14,4
+C020,Human Performance,7,20,79,2026-05-07,1
+C020,Navigation,18,30,58,2026-05-15,3
